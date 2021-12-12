@@ -1,0 +1,96 @@
+1 120938
+[[False False False False False False False False]
+ [False False False False False  True False False]
+ [False False False False False False False False]]
+2 136686
+[[False False  True False False False False False]
+ [False False False False False  True False False]
+ [False False False False False False False False]]
+3 140227
+[[False False  True False False False False False]
+ [False False False False False  True False False]
+ [False False False False False False False  True]]
+4 141570
+[[ True False  True False False False False False]
+ [False False False False False  True False False]
+ [False False False False False False False  True]]
+5 151630
+[[ True False  True False False False False False]
+ [False False False False False  True False False]
+ [False  True False False False False False  True]]
+6 170642
+[[ True False  True False False False False False]
+ [False False False False False  True False False]
+ [False  True  True False False False False  True]]
+7 193407
+[[ True False  True False False False False False]
+ [False False False False False  True False  True]
+ [False  True  True False False False False  True]]
+8 209986
+[[ True False  True False False False False False]
+ [False  True False False False  True False  True]
+ [False  True  True False False False False  True]]
+9 215242
+[[ True False  True  True False False False False]
+ [False  True False False False  True False  True]
+ [False  True  True False False False False  True]]
+10 224510
+[[ True False  True  True False  True False False]
+ [False  True False False False  True False  True]
+ [False  True  True False False False False  True]]
+11 227779
+[[ True False  True  True False  True False  True]
+ [False  True False False False  True False  True]
+ [False  True  True False False False False  True]]
+12 234262
+[[ True False  True  True False  True False  True]
+ [False  True False False False  True False  True]
+ [ True  True  True False False False False  True]]
+13 237698
+[[ True False  True  True False  True  True  True]
+ [False  True False False False  True False  True]
+ [ True  True  True False False False False  True]]
+14 259991
+[[ True False  True  True False  True  True  True]
+ [ True  True False False False  True False  True]
+ [ True  True  True False False False False  True]]
+15 274566
+[[ True False  True  True False  True  True  True]
+ [ True  True  True False False  True False  True]
+ [ True  True  True False False False False  True]]
+16 282034
+[[ True False  True  True False  True  True  True]
+ [ True  True  True False  True  True False  True]
+ [ True  True  True False False False False  True]]
+17 318418
+[[ True False  True  True False  True  True  True]
+ [ True  True  True False  True  True False  True]
+ [ True  True  True  True False False False  True]]
+18 318746
+[[ True  True  True  True False  True  True  True]
+ [ True  True  True False  True  True False  True]
+ [ True  True  True  True False False False  True]]
+19 318966
+[[ True  True  True  True False  True  True  True]
+ [ True  True  True  True  True  True False  True]
+ [ True  True  True  True False False False  True]]
+20 321674
+[[ True  True  True  True False  True  True  True]
+ [ True  True  True  True  True  True False  True]
+ [ True  True  True  True False  True False  True]]
+21 321931
+[[ True  True  True  True False  True  True  True]
+ [ True  True  True  True  True  True False  True]
+ [ True  True  True  True False  True  True  True]]
+22 339946
+[[ True  True  True  True False  True  True  True]
+ [ True  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True]]
+23 373030
+[[ True  True  True  True False  True  True  True]
+ [ True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True]]
+24 475710
+[[ True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True]]
